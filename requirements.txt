@@ -1,0 +1,21 @@
+﻿# Core
+python-dotenv
+requests
+pandas
+numpy
+
+# Feature Store
+hopsworks
+
+# Modelling (will install later when needed)
+# scikit-learn
+# prophet
+# tensorflow
+# shap
+
+# Agents
+# langgraph
+# langchain-groq
+
+# Dashboard
+# streamlit
