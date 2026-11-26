@@ -4,8 +4,9 @@ requests
 pandas
 numpy
 
+# Add later when required
 # Feature Store
-hopsworks
+# hopsworks
 
 # Modelling (will install later when needed)
 # scikit-learn
